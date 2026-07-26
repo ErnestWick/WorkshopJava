@@ -1,4 +1,4 @@
-package org.example;
+package BlockOne;
 
 import java.util.Scanner;
 
